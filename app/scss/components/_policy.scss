@@ -1,0 +1,16 @@
+.betonline-policy {
+    background-color: $body-background;
+    padding-top: 70px;
+    .betonline-policy__anchor {
+        font-family: $font-body;
+        color: red;
+        font-size: 0.7em;
+        line-height: normal;
+    }
+    .betonline-policy__paragraph-rights {
+        font-family: $font-body;
+        color: white;
+        font-size: 0.4em;
+        line-height: normal;
+    }
+}
