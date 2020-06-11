@@ -18,6 +18,6 @@ Technologies
 - BEM
 
 Page deployed in :
-https://david19rp.github.io/GAPTechTest/
+https://david19rp.github.io/Assessment-FE/
 
 
