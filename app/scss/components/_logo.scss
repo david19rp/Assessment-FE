@@ -1,5 +1,6 @@
 @import 'abstracts/variables';
 .betonline-logos {
+    background-color: $body-background;
     .betonline-logos__secure {
         width: 38%;
     }
@@ -9,7 +10,12 @@
     .betonline-logos__payouts {
         width: 48%;
     }
-    hr {
-        border-top: 1px solid red;
+    .betonline-logos__p {
+        color: white;
+        font-size: 0.99em;
+    }
+    p {
+        color: white;
+        font-size: 0.8em;
     }
 }

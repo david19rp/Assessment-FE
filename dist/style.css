@@ -7142,62 +7142,79 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6; } }
 
-.betonline-logos .betonline-logos__secure {
-  width: 38%; }
+.betonline-logos {
+  background-color: #2d2d2c; }
+  .betonline-logos .betonline-logos__secure {
+    width: 38%; }
+  .betonline-logos .betonline-logos__rating {
+    width: 118%; }
+  .betonline-logos .betonline-logos__payouts {
+    width: 48%; }
+  .betonline-logos .betonline-logos__p {
+    color: white;
+    font-size: 0.99em; }
+  .betonline-logos p {
+    color: white;
+    font-size: 0.8em; }
 
-.betonline-logos .betonline-logos__rating {
-  width: 118%; }
+.betonline-policy {
+  background-color: #2d2d2c;
+  padding-top: 70px; }
+  .betonline-policy .betonline-policy__anchor {
+    font-family: "Open Sans", sans-serif;
+    color: red;
+    font-size: 0.7em;
+    line-height: normal; }
+  .betonline-policy .betonline-policy__paragraph-rights {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-size: 0.4em;
+    line-height: normal; }
 
-.betonline-logos .betonline-logos__payouts {
-  width: 48%; }
+.betonline-carousel {
+  background-color: #2d2d2c; }
+  .betonline-carousel .betonline-carousel__text1-img {
+    width: 35%;
+    position: absolute;
+    left: 8%;
+    top: 12%; }
+  .betonline-carousel .betonline-carousel__text2-img {
+    width: 30%;
+    position: absolute;
+    left: 8%;
+    top: 12%; }
+  .betonline-carousel .betonline-carousel__text1-img-mob {
+    width: 85%;
+    position: absolute;
+    left: 5%;
+    top: 10%; }
+  .betonline-carousel .betonline-carousel__text2-img-mob {
+    width: 85%;
+    position: absolute;
+    left: 7%;
+    top: 10%; }
+  .betonline-carousel .betonline-carousel__button-mob {
+    color: #ffffff;
+    background-color: #8ac500;
+    border: none;
+    width: 220px;
+    height: 50px;
+    border-radius: 3px;
+    margin-top: -15px;
+    font-size: 2em; }
+  .betonline-carousel .betonline-carousel__button {
+    color: #ffffff;
+    background-color: #8ac500;
+    border: none;
+    width: 22.4%;
+    height: 58px;
+    border-radius: 3px;
+    margin-top: -20px;
+    margin-left: 8.5%;
+    font-size: 1.5em; }
 
-.betonline-logos hr {
-  border-top: 1px solid red; }
-
-.betonline-carousel .betonline-carousel__text1-img {
-  width: 35%;
-  position: absolute;
-  left: 8%;
-  top: 12%; }
-
-.betonline-carousel .betonline-carousel__text2-img {
-  width: 30%;
-  position: absolute;
-  left: 8%;
-  top: 12%; }
-
-.betonline-carousel .betonline-carousel__text1-img-mob {
-  width: 85%;
-  position: absolute;
-  left: 5%;
-  top: 10%; }
-
-.betonline-carousel .betonline-carousel__text2-img-mob {
-  width: 85%;
-  position: absolute;
-  left: 7%;
-  top: 10%; }
-
-.betonline-carousel .betonline-carousel__button-mob {
-  color: #ffffff;
-  background-color: #8ac500;
-  border: none;
-  width: 220px;
-  height: 50px;
-  border-radius: 3px;
-  margin-top: -15px;
-  font-size: 2em; }
-
-.betonline-carousel .betonline-carousel__button {
-  color: #ffffff;
-  background-color: #8ac500;
-  border: none;
-  width: 22.4%;
-  height: 58px;
-  border-radius: 3px;
-  margin-top: -20px;
-  margin-left: 8.5%;
-  font-size: 1.5em; }
+.bg-custom {
+  background-color: #2d2d2c; }
 
 body {
   background-color: #2d2d2c; }
